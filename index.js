@@ -12,6 +12,7 @@ exports.buildRestUrl = function (restUrl, urlParams, queryParams) {
         query = `${query}${key}=${(queryParams[key])}&`;
       }
     }
+    query = query.slice(0, -1);
   }
   return `${url}${query}`;
 };
