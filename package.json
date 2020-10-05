@@ -1,7 +1,7 @@
 {
   "name": "nitinreddy3_resturlbuilder",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.5",
+  "description": "Package to build a url based on url params and query params",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,5 @@
     "url"
   ],
   "author": "Nitin Reddy <reddynitin3@gmail.com> (https://nitinreddy3.xyz)",
-  "license": "ISC",
-  "dependencies": {
-    "nitinreddy3_urlbuilder": "^1.0.0"
-  }
+  "license": "ISC"
 }
