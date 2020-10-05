@@ -1,12 +1,16 @@
 {
   "name": "nitinreddy3_resturlbuilder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "rest",
+    "url"
+  ],
+  "author": "Nitin Reddy <reddynitin3@gmail.com> (https://nitinreddy3.xyz)",
   "license": "ISC",
   "dependencies": {
     "nitinreddy3_urlbuilder": "^1.0.0"
